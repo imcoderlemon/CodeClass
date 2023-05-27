@@ -8,10 +8,6 @@
 
 ## 学习资源下载
 
-### PDF 计算机电子书
-500本经典计算机电子书下载链接直达：[500本计算机经典书籍分享](https://github.com/imcoderlemon/awesome-cs-books)
-
-
 ### LeetCode 算法刷题笔记
 
 **LeetCode 题解**
@@ -57,8 +53,6 @@
 ![](https://cdn.jsdelivr.net/gh/lemonchann/images/gzh/搜一搜公众号推广物料图片-png/8cm.jpg)
 
 ### 在公众号后台发送以下关键字：
-
-- 回复【512】 获取超经典的 50 本计算机电子书
 
 - 回复【路线】获取史上最全后端技术学习路线图
 
